@@ -17,7 +17,11 @@ Este projeto é parte do meu processo de aprendizagem e consolidação de habili
 
 **Francisco Assis Silva**
 
-Desenvolvedor em formação, com previsão de formação em Engenharia de Software para início de 2026, apaixonado por tecnologia e por transformar ideias em soluções digitais.
+Graduado em Ciências Contábeis pela universidade de Mato Grosso Uniderp, com registro de contador ativo pelo Conselho Regional de Contabilidade de Goias, através do registro n CRCGO 019448-0. 
+
+Engenheiro de dados em formação, com previsão de conclusão da graduação em Engenharia de Software para início de 2026, apaixonado por tecnologia e por transformar ideias em soluções digitais.
+
+
 
 ---
 
@@ -79,4 +83,3 @@ Se quiser trocar ideias ou dar sugestões, fique à vontade para me contatar:
 
 > Este projeto é parte do curso **Django Master** e representa meu progresso como desenvolvedor full stack. Obrigado por visitar!
 
-```
