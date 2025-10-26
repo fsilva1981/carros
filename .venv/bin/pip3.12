@@ -1,4 +1,4 @@
-#!/home/fsilva/django_master/carros/.venv/bin/python3
+#!/home/fsilva/django_master/carros/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
